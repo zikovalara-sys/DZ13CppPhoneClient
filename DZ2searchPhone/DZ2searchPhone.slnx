@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="DZ1deleteClient/DZ1deleteClient.vcxproj" Id="2ddb4642-58c4-409d-ae4b-2c0c40e01534" />
+  <Project Path="DZ2searchPhone/DZ2searchPhone.vcxproj" />
 </Solution>
